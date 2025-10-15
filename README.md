@@ -1,10 +1,10 @@
 # Task_04_Descriptive_Stats
 
-## 📌 Overview
+##  Overview
 
 This project performs descriptive statistical analysis on 3 different datasets such as political ad data, facebook posts data and twitter data from the **2024 U.S. Presidential Election**,  using ** Pure Python's standard library** (no external dependencies), **Pandas** and **Polars**. The analysis includes the descriptive statistics of all three dataset's numerical and categorical columns.
 
-## 🚀 How to Run the Code
+##  How to Run the Code
 
 1. **Make sure you have Python 3.x installed**.
 
